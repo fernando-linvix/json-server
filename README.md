@@ -58,7 +58,7 @@ You can read more about JSON5 format [here](https://github.com/json5/json5).
 Pass it to JSON Server CLI
 
 ```shell
-$ npx json-server db.json
+$ npx json-server db.json ou json-server --watch db.json --port 3001
 ```
 
 Get a REST API
